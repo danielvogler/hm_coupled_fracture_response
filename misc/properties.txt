@@ -1,0 +1,5 @@
+in paper and
+
+E-modulus: 10-12 GPa (measured)
+
+Poisson ratio. not measured. assume 0.33 or similar
